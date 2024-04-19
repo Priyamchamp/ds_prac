@@ -69,6 +69,9 @@ information about various houses in Boston through different parameters. There a
 <p align="justify">3. Create a box plot for each feature in the dataset.</p>
 <p align="justify">4. Compare distributions and identify outliers.</p>
 
+**Assigment 11**
+<p  align='justify"> create a database,insert table for performing it in the impala .</p>
+
 ## Group B- Big Data Analytics
 **Assignment 1**
 
